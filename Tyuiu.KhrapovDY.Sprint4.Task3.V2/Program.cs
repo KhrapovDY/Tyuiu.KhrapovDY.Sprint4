@@ -17,7 +17,7 @@ namespace Tyuiu.KhrapovDY.Sprint4.Task3.V2
 
             Console.WriteLine("*************************************************************************************");
             Console.WriteLine("* Спринт #4                                                                         *");
-            Console.WriteLine("* Тема: Одномерные массивы (статический ввод)                                       *");
+            Console.WriteLine("* Тема: Двумерные массивы. (статический ввод)                                       *");
             Console.WriteLine("* Задание #3                                                                        *");
             Console.WriteLine("* Вариант #2                                                                        *");
             Console.WriteLine("* Выполнил: Храпов Даниил Юрьевич | СМАРТб-24-1                                     *");
